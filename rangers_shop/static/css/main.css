@@ -1,0 +1,13 @@
+/* Shop page CSS*/
+
+
+.shop-header {
+    background-image: url("https://i.pinimg.com/originals/92/9b/47/929b4787c8518d415936b9d503a11b33.jpg");
+    background-size: cover;
+    height: 700px;
+    color: white;
+}
+
+.shop-stats {
+    color: white;
+}
